@@ -1,0 +1,4 @@
+raw_eggs
+
+1. Get an egg.
+2. Eat it.
